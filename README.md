@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hélder Gomes</h1>
-<h3 align="center">A passionate frontend and backend developer from Portugal</h3>
+<h3 align="center">A passionate PHP/HTML frontend and backend developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomeshelder&label=Profile%20views&color=0e75b6&style=flat" alt="gomeshelder" /> </p>
 
